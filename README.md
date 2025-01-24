@@ -1,3 +1,4 @@
+![logo](https://github.com/Muhammadanas09062004/Muhammad-Anas/blob/main/banner.png.png)
 <h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif?cid=6c09b952d62bnko7501qlhlk59nskf3ip0ipggie7w1w9fsz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
